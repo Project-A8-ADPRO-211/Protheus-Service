@@ -9,9 +9,8 @@
     Serverless Service for TK Adpro A8
     <br />
     <br />
-    <p>Live Site</p>
-    <br />
-    <p>https://c1k275902l.execute-api.us-east-1.amazonaws.com/dev/get-signed-url?name={filename}</p>
+    <p align="center">Live Site</p>
+    <p align="center">https://c1k275902l.execute-api.us-east-1.amazonaws.com/dev/get-signed-url?name={filename}</p>
   </p>
 </p>
 
